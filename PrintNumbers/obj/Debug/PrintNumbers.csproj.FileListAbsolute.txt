@@ -1,0 +1,16 @@
+c:\users\tyson\documents\visual studio 2015\Projects\PrintNumbers\PrintNumbers\bin\Debug\PrintNumbers.pdb
+c:\users\tyson\documents\visual studio 2015\Projects\PrintNumbers\PrintNumbers\obj\Debug\PrintNumbers.pdb
+c:\users\tyson\documents\visual studio 2015\Projects\PrintNumbers\PrintNumbers\bin\Debug\PrintValuesLibrary.dll
+c:\users\tyson\documents\visual studio 2015\Projects\PrintNumbers\PrintNumbers\bin\Debug\PrintValuesLibrary.pdb
+c:\users\tyson\documents\visual studio 2015\Projects\PrintNumbers\PrintNumbers\obj\Debug\PrintNumbers.csprojResolveAssemblyReference.cache
+c:\users\tyson\documents\visual studio 2015\Projects\PrintNumbers\PrintNumbers\bin\Debug\PrintNumbers.exe.config
+c:\users\tyson\documents\visual studio 2015\Projects\PrintNumbers\PrintNumbers\bin\Debug\PrintNumbers.exe
+c:\users\tyson\documents\visual studio 2015\Projects\PrintNumbers\PrintNumbers\obj\Debug\PrintNumbers.exe
+C:\Projects\PrintNumbers\PrintNumbers\bin\Debug\PrintNumbers.exe.config
+C:\Projects\PrintNumbers\PrintNumbers\obj\Debug\PrintNumbers.exe
+C:\Projects\PrintNumbers\PrintNumbers\obj\Debug\PrintNumbers.pdb
+C:\Projects\PrintNumbers\PrintNumbers\bin\Debug\PrintNumbers.exe
+C:\Projects\PrintNumbers\PrintNumbers\bin\Debug\PrintNumbers.pdb
+C:\Projects\PrintNumbers\PrintNumbers\bin\Debug\PrintValuesLibrary.dll
+C:\Projects\PrintNumbers\PrintNumbers\bin\Debug\PrintValuesLibrary.pdb
+C:\Projects\PrintNumbers\PrintNumbers\obj\Debug\PrintNumbers.csprojResolveAssemblyReference.cache

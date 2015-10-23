@@ -1,0 +1,15 @@
+C:\Projects\PrintNumbers\PrintValuesTest\bin\Debug\PrintValuesTest.dll
+C:\Projects\PrintNumbers\PrintValuesTest\bin\Debug\PrintValuesTest.pdb
+C:\Projects\PrintNumbers\PrintValuesTest\bin\Debug\PrintValuesLibrary.dll
+C:\Projects\PrintNumbers\PrintValuesTest\bin\Debug\PrintValuesLibrary.pdb
+C:\Projects\PrintNumbers\PrintValuesTest\obj\Debug\PrintValuesTest.csprojResolveAssemblyReference.cache
+C:\Projects\PrintNumbers\PrintValuesTest\obj\Debug\PrintValuesTest.dll
+C:\Projects\PrintNumbers\PrintValuesTest\obj\Debug\PrintValuesTest.pdb
+C:\Users\Tyson\Documents\Visual Studio 2015\Projects\PrintNumbers\PrintValuesTest\bin\Debug\PrintValuesTest.dll
+C:\Users\Tyson\Documents\Visual Studio 2015\Projects\PrintNumbers\PrintValuesTest\bin\Debug\PrintValuesTest.pdb
+C:\Users\Tyson\Documents\Visual Studio 2015\Projects\PrintNumbers\PrintValuesTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Tyson\Documents\Visual Studio 2015\Projects\PrintNumbers\PrintValuesTest\bin\Debug\PrintValuesLibrary.dll
+C:\Users\Tyson\Documents\Visual Studio 2015\Projects\PrintNumbers\PrintValuesTest\bin\Debug\PrintValuesLibrary.pdb
+C:\Users\Tyson\Documents\Visual Studio 2015\Projects\PrintNumbers\PrintValuesTest\obj\Debug\PrintValuesTest.csprojResolveAssemblyReference.cache
+C:\Users\Tyson\Documents\Visual Studio 2015\Projects\PrintNumbers\PrintValuesTest\obj\Debug\PrintValuesTest.dll
+C:\Users\Tyson\Documents\Visual Studio 2015\Projects\PrintNumbers\PrintValuesTest\obj\Debug\PrintValuesTest.pdb

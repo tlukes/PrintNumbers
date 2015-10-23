@@ -1,0 +1,11 @@
+c:\users\tyson\documents\visual studio 2015\Projects\PrintNumbers\PrintValuesLibrary\bin\Debug\PrintValuesLibrary.dll.config
+c:\users\tyson\documents\visual studio 2015\Projects\PrintNumbers\PrintValuesLibrary\bin\Debug\PrintValuesLibrary.dll
+c:\users\tyson\documents\visual studio 2015\Projects\PrintNumbers\PrintValuesLibrary\bin\Debug\PrintValuesLibrary.pdb
+c:\users\tyson\documents\visual studio 2015\Projects\PrintNumbers\PrintValuesLibrary\obj\Debug\PrintValuesLibrary.dll
+c:\users\tyson\documents\visual studio 2015\Projects\PrintNumbers\PrintValuesLibrary\obj\Debug\PrintValuesLibrary.pdb
+C:\Projects\PrintNumbers\PrintValuesLibrary\bin\Debug\PrintValuesLibrary.dll.config
+C:\Projects\PrintNumbers\PrintValuesLibrary\bin\Debug\PrintValuesLibrary.dll
+C:\Projects\PrintNumbers\PrintValuesLibrary\bin\Debug\PrintValuesLibrary.pdb
+C:\Projects\PrintNumbers\PrintValuesLibrary\obj\Debug\PrintValuesLibrary.dll
+C:\Projects\PrintNumbers\PrintValuesLibrary\obj\Debug\PrintValuesLibrary.pdb
+C:\Users\Tyson\Documents\Visual Studio 2015\Projects\PrintNumbers\PrintValuesLibrary\obj\Debug\PrintValuesLibrary.csprojResolveAssemblyReference.cache
